@@ -4,7 +4,7 @@ I'm a recent graduate for Heriot-Watt University. I have just completed a BSc (H
 
 ### Projects
 Cryptography Guessing Game | Dissertation Project  
-30 Days of Python Challenge by Asabeneh
+30 Days of Python Challenge by Asabeneh  
 Digital Forensics Lab Setup  
 Digital Forensics Investigation 
 
