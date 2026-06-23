@@ -1,6 +1,6 @@
 ## Hi, I'm Megan Brennan
 
-I'm a final year Computer Science (Cyber Security) student at Heriot-Watt University.
+I'm a recent graduate for Heriot-Watt University. I have just completed a BSc (Hons) in Computer Science (Cyber Security), acheiving a 2:1.
 
 ### Projects
 Cryptography Guessing Game | Dissertation Project  
